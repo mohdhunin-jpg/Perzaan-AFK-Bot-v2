@@ -6,11 +6,11 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 75375,
+    "ip": "Play_kite.aternos.me",
+    "port": 64116,
     "version": "1.21.1"
   },
-  "position": {
+  "positi
     "enabled": true,
     "x": 0,
     "y": 100,
