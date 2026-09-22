@@ -10,7 +10,7 @@
     "port": 64116,
     "version": "1.21.1"
   },
-  "positi
+  "position":{
     "enabled": true,
     "x": 0,
     "y": 100,
