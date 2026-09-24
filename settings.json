@@ -1,10 +1,9 @@
-
 {
   "name": "AFK Bot",
   "bot-account": {
     "username": "SK_ARMY",
     "password": "LAPATA",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "Kitelmc.qd.je",
